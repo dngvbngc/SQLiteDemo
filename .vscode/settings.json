@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "sqlite-jdbc-3.44.1.0.jar",
+        "slf4j-api-1.7.36.jar",
+        "slf4j-nop-1.6.1.jar"
+    ]
+}
